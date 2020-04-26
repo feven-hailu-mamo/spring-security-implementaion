@@ -1,4 +1,4 @@
-package com.spring.security.springsecuritydemo;
+package com.spring.security.springsecuritydemo.controller;
 
 public class Student {
 
